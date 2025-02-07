@@ -7,6 +7,9 @@ A collection of scripts and utilities that leverage Large Language Models (LLMs)
 - **Hybrid Recommendation System**  
   Combines collaborative filtering with content-based methods (TF-IDF). Includes hyperparameter tuning using [Optuna](https://optuna.org/). Demonstrates end-to-end flow: data generation, model training, validation, and testing.
 
+- **TinyGPT**
+  A minimalist from-scratch transformer language model that dynamically scrapes raw online text, builds its own Byte Pair Encoding (BPE) tokenizer, and trains a lean model using CUDA AMP mixed precision.
+
 - **Additional Scripts**  
   Future scripts will be added here to explore different LLM or AI-driven functionalities.
 
